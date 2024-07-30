@@ -1,3 +1,17 @@
+## cushy-calendar (일정관리 서비스 프로젝트)
+
+### Stack
+
+- React
+- Next.js
+- Typescript
+- AppRouter
+- Tailwind CSS
+
+#### 평소 사용해보고 싶었던 AppRouter, Tailwind CSS 를 사용하는 프로젝트입니다.
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
